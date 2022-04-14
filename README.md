@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wided fares
 - 👀 I’m interested in Web developpement
-- 🌱 I’m currently learning Full/Stack javascript
+- 🌱 I’m currently FullStack javascript Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
